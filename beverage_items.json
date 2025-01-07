@@ -1,0 +1,76 @@
+{
+  "version": "20250107",
+  "items": [
+    {
+      "image": "pet_large.png",
+      "name": "PET large",
+      "show": true,
+      "uuid": "f924c72e-adf5-4dda-828a-591f2e0e4b59",
+      "value": 0.25
+    },
+    {
+      "image": "pet_small.png",
+      "name": "PET small",
+      "show": true,
+      "uuid": "4e64710e-7cfc-421c-bfd7-77c2ec894731",
+      "value": 0.15
+    },
+    {
+      "image": "can.png",
+      "name": "Can",
+      "show": true,
+      "uuid": "f1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+      "value": 0.15
+    },
+    {
+      "image": "bottle.png",
+      "name": "Beer bottle",
+      "show": true,
+      "uuid": "b592134e-4c3f-4ed3-871a-950f1d7c5e53",
+      "value": 0.10
+    },
+    {
+      "image": "crate_full.png",
+      "name": "Filled beer crate",
+      "show": true,
+      "uuid": "a0cd490d-b7b8-4d6d-8789-0eca27f13ba1",
+      "value": 3.90
+    },
+    {
+      "image": "crate_empty.png",
+      "name": "Empty beer crate",
+      "show": true,
+      "uuid": "0e4725b3-cdf5-4bdc-aa47-ff64d37f2f82",
+      "value": 1.50
+    },
+    {
+      "image": "bag_ah_picnic.png",
+      "max": 1,
+      "name": "AH / Picnic bags",
+      "show": true,
+      "uuid": "53e9e894-47fe-4da2-b20a-d7c2730ef5e5",
+      "value": 0.35
+    },
+    {
+      "image": "ah_crate.png",
+      "name": "AH crate",
+      "show": true,
+      "uuid": "d09e1bf4-4692-4a8e-88a0-6c191bd8c975",
+      "value": 5.00
+    },
+    {
+      "image": "jumbo_crate.png",
+      "name": "Jumbo crate",
+      "show": true,
+      "uuid": "57257d56-f2bc-4916-8049-d4d5865aff0b",
+      "value": 5.00
+    },
+    {
+      "image": "jumbo_bag.png",
+      "name": "Jumbo bag",
+      "show": true,
+      "uuid": "386cb019-f17f-43d0-8f79-04cf26186071",
+      "value": 0.10
+    }
+  ]
+}
