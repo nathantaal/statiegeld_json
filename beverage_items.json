@@ -1,5 +1,4 @@
 {
-  "version": "20250107",
   "items": [
     {
       "image": "pet_large.png",
@@ -71,6 +70,14 @@
       "show": true,
       "uuid": "386cb019-f17f-43d0-8f79-04cf26186071",
       "value": 0.10
+    },
+    {
+      "image": "ah_crate.png",
+      "name": "Hoogvliet crate",
+      "show": true,
+      "uuid": "f4004059-9cfa-4999-b894-904880871e80",
+      "value": 4.00
     }
-  ]
+  ],
+  "version": "20250108"
 }
