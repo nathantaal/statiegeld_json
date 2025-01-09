@@ -77,13 +77,6 @@
       "show": true,
       "uuid": "f4004059-9cfa-4999-b894-904880871e80",
       "value": 4.00
-    },
-    {
-      "image": null,
-      "name": "Plus crate",
-      "show": true,
-      "uuid": "9dc72e0d-41cb-435b-9511-afffbd851f9e",
-      "value": 5.00
     }
   ],
   "version": "20250109"
