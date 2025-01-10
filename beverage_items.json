@@ -60,25 +60,7 @@
       "name": "Jumbo bag",
       "uuid": "386cb019-f17f-43d0-8f79-04cf26186071",
       "value": 0.10
-    },
-    {
-      "image": null,
-      "name": "Hoogvliet crate",
-      "uuid": "f4004059-9cfa-4999-b894-904880871e80",
-      "value": 4.00
-    },
-    {
-      "image": null,
-      "name": "Plus crate",
-      "uuid": "28fa49e5-525b-4462-85ab-92670f8d6321",
-      "value": 5.00
-    },
-    {
-      "image": null,
-      "name": "Coop crate",
-      "uuid": "831d5bae-8197-4af2-b209-a825682b720c",
-      "value": 4.00
     }
   ],
-  "version": "202501101230"
+  "version": "202501101306"
 }
