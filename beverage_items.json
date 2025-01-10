@@ -78,7 +78,13 @@
       "name": "Coop crate",
       "uuid": "831d5bae-8197-4af2-b209-a825682b720c",
       "value": 4.00
+    },
+    {
+      "image": null,
+      "name": "Swing top bottle",
+      "uuid": "b1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+      "value": 0.20
     }
   ],
-  "version": "202501101329"
+  "version": "202501102136"
 }
