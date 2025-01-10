@@ -72,12 +72,19 @@
       "value": 0.10
     },
     {
-      "image": "ah_crate.png",
+      "image": null,
       "name": "Hoogvliet crate",
       "show": true,
       "uuid": "f4004059-9cfa-4999-b894-904880871e80",
       "value": 4.00
+    },
+    {
+      "image": null,
+      "name": "Hoogvliet crate",
+      "show": true,
+      "uuid": "f4004059-9cfa-4999-b894-904880871e80",
+      "value": 5.00
     }
   ],
-  "version": "20250109"
+  "version": "202501100815"
 }
