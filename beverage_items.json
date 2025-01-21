@@ -68,13 +68,13 @@
       "value": 4.00
     },
     {
-      "image": null,
+      "image": "green_crate.png",
       "name": "Plus crate",
       "uuid": "28fa49e5-525b-4462-85ab-92670f8d6321",
       "value": 5.00
     },
     {
-      "image": null,
+      "image": "orange_crate.png",
       "name": "Coop crate",
       "uuid": "831d5bae-8197-4af2-b209-a825682b720c",
       "value": 4.00
@@ -86,5 +86,5 @@
       "value": 0.20
     }
   ],
-  "version": "202501171002"
+  "version": "202501211028"
 }
