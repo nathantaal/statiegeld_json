@@ -1,42 +1,49 @@
 {
   "items": [
     {
+      "category": "default",
       "image": "pet_large.png",
       "name": "PET large",
       "uuid": "f924c72e-adf5-4dda-828a-591f2e0e4b59",
       "value": 0.25
     },
     {
+      "category": "default",
       "image": "pet_small.png",
       "name": "PET small",
       "uuid": "4e64710e-7cfc-421c-bfd7-77c2ec894731",
       "value": 0.15
     },
     {
+      "category": "default",
       "image": "can.png",
       "name": "Can",
       "uuid": "f1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
       "value": 0.15
     },
     {
+      "category": "beer",
       "image": "bottle.png",
       "name": "Beer bottle",
       "uuid": "b592134e-4c3f-4ed3-871a-950f1d7c5e53",
       "value": 0.10
     },
     {
+      "category": "beer",
       "image": "crate_full.png",
-      "name": "Filled beer crate",
+      "name": "Beer crate (full)",
       "uuid": "a0cd490d-b7b8-4d6d-8789-0eca27f13ba1",
       "value": 3.90
     },
     {
+      "category": "beer",
       "image": "crate_empty.png",
-      "name": "Empty beer crate",
+      "name": "Beer crate (empty)",
       "uuid": "0e4725b3-cdf5-4bdc-aa47-ff64d37f2f82",
       "value": 1.50
     },
     {
+      "category": "supermarket",
       "image": "bag_ah_picnic.png",
       "max": 1,
       "name": "AH / Picnic bags",
@@ -44,47 +51,54 @@
       "value": 0.35
     },
     {
+      "category": "supermarket",
       "image": "ah_crate.png",
       "name": "AH crate",
       "uuid": "d09e1bf4-4692-4a8e-88a0-6c191bd8c975",
       "value": 5.00
     },
     {
+      "category": "supermarket",
       "image": "jumbo_crate.png",
       "name": "Jumbo crate",
       "uuid": "57257d56-f2bc-4916-8049-d4d5865aff0b",
       "value": 5.00
     },
     {
+      "category": "supermarket",
       "image": "jumbo_bag.png",
       "name": "Jumbo bag",
       "uuid": "386cb019-f17f-43d0-8f79-04cf26186071",
       "value": 0.10
     },
     {
+      "category": "supermarket",
       "image": "ah_crate.png",
       "name": "Hoogvliet crate",
       "uuid": "f4004059-9cfa-4999-b894-904880871e80",
       "value": 4.00
     },
     {
+      "category": "supermarket",
       "image": "green_crate.png",
       "name": "Plus crate",
       "uuid": "28fa49e5-525b-4462-85ab-92670f8d6321",
       "value": 5.00
     },
     {
+      "category": "supermarket",
       "image": "orange_crate.png",
       "name": "Coop crate",
       "uuid": "831d5bae-8197-4af2-b209-a825682b720c",
       "value": 4.00
     },
     {
+      "category": "beer",
       "image": "swing_top_bottle.png",
       "name": "Swing top bottle",
       "uuid": "b1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
       "value": 0.20
     }
   ],
-  "version": "202501211029"
+  "version": "202501271452"
 }
